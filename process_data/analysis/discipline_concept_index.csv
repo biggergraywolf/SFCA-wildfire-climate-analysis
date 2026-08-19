@@ -1,0 +1,121 @@
+discipline,concept,record_n,group_n,prevalence,log2_prevalence_ratio
+Atmospheric and climate,source_explicit,46,1567,0.029355456285896617,0.4648527980227683
+Atmospheric and climate,natural_ignition,29,1567,0.018506700701978303,0.9599501594419488
+Atmospheric and climate,human_ignition,29,1567,0.018506700701978303,0.3985744790384084
+Atmospheric and climate,climate_attribution,23,1567,0.014677728142948309,0.9441089018118954
+Atmospheric and climate,counterfactual,10,1567,0.006381620931716656,1.2196462798505203
+Atmospheric and climate,fuel_legacy,84,1567,0.053605615826419914,-0.6778076765588631
+Atmospheric and climate,suppression_control,79,1567,0.05041480536056158,-0.6301367357399136
+Atmospheric and climate,burned_area,223,1567,0.14231014677728143,0.36637764377242565
+Atmospheric and climate,fire_severity,91,1567,0.05807275047862157,-0.7234519467502508
+Atmospheric and climate,emissions_carbon,355,1567,0.2265475430759413,0.6122438849414762
+Atmospheric and climate,nonco2_biophysical,342,1567,0.21825143586470963,1.2140662825380326
+Atmospheric and climate,radiative_temperature,186,1567,0.11869814932992981,1.5096686979236809
+Atmospheric and climate,postfire_recovery,25,1567,0.01595405232929164,-0.9307743819780883
+Atmospheric and climate,feedback_closure,32,1567,0.0204211869814933,1.5542407865740433
+Atmospheric and climate,fire_weather,397,1567,0.25335035098915126,0.8272298762449305
+Earth observation and geosciences,source_explicit,12,782,0.015345268542199489,-0.4286084764863709
+Earth observation and geosciences,natural_ignition,3,782,0.0038363171355498722,-1.113496621038121
+Earth observation and geosciences,human_ignition,11,782,0.014066496163682864,0.041334732557747535
+Earth observation and geosciences,climate_attribution,5,782,0.00639386189258312,-0.14920698440427704
+Earth observation and geosciences,counterfactual,0,782,0.0,-2.1708297961040723
+Earth observation and geosciences,fuel_legacy,40,782,0.05115089514066496,-0.7369957631322552
+Earth observation and geosciences,suppression_control,32,782,0.04092071611253197,-0.9188105311716467
+Earth observation and geosciences,burned_area,92,782,0.11764705882352941,0.09546942992958737
+Earth observation and geosciences,fire_severity,60,782,0.07672634271099744,-0.3184472009355313
+Earth observation and geosciences,emissions_carbon,132,782,0.16879795396419436,0.19022803159679016
+Earth observation and geosciences,nonco2_biophysical,120,782,0.1534526854219949,0.708836787744273
+Earth observation and geosciences,radiative_temperature,65,782,0.08312020460358056,1.0019012260300606
+Earth observation and geosciences,postfire_recovery,16,782,0.020460358056265986,-0.5569642577669629
+Earth observation and geosciences,feedback_closure,7,782,0.008951406649616368,0.4406049159782748
+Earth observation and geosciences,fire_weather,76,782,0.09718670076726342,-0.5483519844099677
+Ecology and biology,source_explicit,51,3425,0.01489051094890511,-0.5154050778708353
+Ecology and biology,natural_ignition,20,3425,0.00583941605839416,-0.6927404772705995
+Ecology and biology,human_ignition,37,3425,0.010802919708029197,-0.38284947179634266
+Ecology and biology,climate_attribution,19,3425,0.005547445255474452,-0.45267732297228425
+Ecology and biology,counterfactual,7,3425,0.0020437956204379564,-0.3933801392885122
+Ecology and biology,fuel_legacy,364,3425,0.10627737226277373,0.3034882995170989
+Ecology and biology,suppression_control,261,3425,0.07620437956204379,-0.039952146746118265
+Ecology and biology,burned_area,383,3425,0.11182481751824817,0.017729798123250394
+Ecology and biology,fire_severity,394,3425,0.11503649635036496,0.2571301130103745
+Ecology and biology,emissions_carbon,477,3425,0.13927007299270072,-0.0897045337236186
+Ecology and biology,nonco2_biophysical,269,3425,0.07854014598540146,-0.25935202452614176
+Ecology and biology,radiative_temperature,88,3425,0.025693430656934305,-0.6933571642173505
+Ecology and biology,postfire_recovery,126,3425,0.03678832116788321,0.2521942587759355
+Ecology and biology,feedback_closure,15,3425,0.004379562043795621,-0.6415303080363268
+Ecology and biology,fire_weather,313,3425,0.09138686131386861,-0.642859133093539
+"Engineering, policy and society",source_explicit,8,316,0.02531645569620253,0.3195276421408772
+"Engineering, policy and society",natural_ignition,2,316,0.006329113924050633,-0.2943939810567293
+"Engineering, policy and society",human_ignition,4,316,0.012658227848101266,-0.007772754905319454
+"Engineering, policy and society",climate_attribution,1,316,0.0031645569620253164,-0.7191466351687847
+"Engineering, policy and society",counterfactual,1,316,0.0031645569620253164,0.7186621717687173
+"Engineering, policy and society",fuel_legacy,8,316,0.02531645569620253,-1.6848534576149072
+"Engineering, policy and society",suppression_control,18,316,0.056962025316455694,-0.42719551141951817
+"Engineering, policy and society",burned_area,16,316,0.05063291139240506,-1.0869884440766377
+"Engineering, policy and society",fire_severity,9,316,0.028481012658227847,-1.6848534576149068
+"Engineering, policy and society",emissions_carbon,27,316,0.08544303797468354,-0.7737313371774784
+"Engineering, policy and society",nonco2_biophysical,16,316,0.05063291139240506,-0.8551289619756017
+"Engineering, policy and society",radiative_temperature,1,316,0.0031645569620253164,-3.1420298076346
+"Engineering, policy and society",postfire_recovery,3,316,0.00949367088607595,-1.4894739879161787
+"Engineering, policy and society",feedback_closure,0,316,0.0,-2.1617562124786103
+"Engineering, policy and society",fire_weather,27,316,0.08544303797468354,-0.7198506464263265
+Environmental sciences,source_explicit,0,62,0.0,-1.4368760924699713
+Environmental sciences,natural_ignition,0,62,0.0,-0.28526296930460077
+Environmental sciences,human_ignition,0,62,0.0,-0.846638649708141
+Environmental sciences,climate_attribution,0,62,0.0,0.02694997074954969
+Environmental sciences,counterfactual,0,62,0.0,1.4647587776870519
+Environmental sciences,fuel_legacy,1,62,0.016129032258064516,-1.8562946915045997
+Environmental sciences,suppression_control,3,62,0.04838709677419355,-0.498234848351373
+Environmental sciences,burned_area,4,62,0.06451612903225806,-0.6303984553532883
+Environmental sciences,fire_severity,7,62,0.11290322580645161,0.3051687311895167
+Environmental sciences,emissions_carbon,7,62,0.11290322580645161,-0.3171413484541289
+Environmental sciences,nonco2_biophysical,13,62,0.20967741935483872,1.186423527468904
+Environmental sciences,radiative_temperature,1,62,0.016129032258064516,-0.8109707009951093
+Environmental sciences,postfire_recovery,0,62,0.0,-1.965769803334292
+Environmental sciences,feedback_closure,1,62,0.016129032258064516,1.7542653948820366
+Environmental sciences,fire_weather,3,62,0.04838709677419355,-1.3627963312538913
+Forestry and land management,source_explicit,65,1980,0.03282828282828283,0.621813667677909
+Forestry and land management,natural_ignition,32,1980,0.01616161616161616,0.762371602334284
+Forestry and land management,human_ignition,38,1980,0.01919191919191919,0.44541464959719024
+Forestry and land management,climate_attribution,7,1980,0.0035353535353535356,-1.0408926750315015
+Forestry and land management,counterfactual,2,1980,0.00101010101010101,-1.1880463688151557
+Forestry and land management,fuel_legacy,278,1980,0.1404040404040404,0.7055430837247063
+Forestry and land management,suppression_control,293,1980,0.147979797979798,0.9168936813115053
+Forestry and land management,burned_area,259,1980,0.13080808080808082,0.24453403017271041
+Forestry and land management,fire_severity,301,1980,0.15202020202020203,0.659559086091513
+Forestry and land management,emissions_carbon,227,1980,0.11464646464646465,-0.3690424503661586
+Forestry and land management,nonco2_biophysical,64,1980,0.03232323232323232,-1.5319699606608808
+Forestry and land management,radiative_temperature,20,1980,0.010101010101010102,-2.0131144384877517
+Forestry and land management,postfire_recovery,103,1980,0.05202020202020202,0.7529839127754633
+Forestry and land management,feedback_closure,3,1980,0.0015151515151515152,-1.9980754251710853
+Forestry and land management,fire_weather,459,1980,0.2318181818181818,0.6990365565879693
+Health,source_explicit,3,450,0.006666666666666667,-1.4692248701678317
+Health,natural_ignition,0,450,0.0,-3.1249666690600653
+Health,human_ignition,3,450,0.006666666666666667,-0.8789874274060013
+Health,climate_attribution,3,450,0.006666666666666667,-0.005398806948310401
+Health,counterfactual,4,450,0.008888888888888889,1.7949800793738997
+Health,fuel_legacy,8,450,0.017777777777777778,-2.1934980507308808
+Health,suppression_control,23,450,0.051111111111111114,-0.5907046184868041
+Health,burned_area,16,450,0.035555555555555556,-1.5956330371926117
+Health,fire_severity,15,450,0.03333333333333333,-1.4872292537875906
+Health,emissions_carbon,43,450,0.09555555555555556,-0.6207921479693835
+Health,nonco2_biophysical,13,450,0.028888888888888888,-1.6532801722865604
+Health,radiative_temperature,5,450,0.011111111111111112,-1.7762052828344326
+Health,postfire_recovery,10,450,0.022222222222222223,-0.4131560803109964
+Health,feedback_closure,1,450,0.0022222222222222222,-1.085438304873428
+Health,fire_weather,11,450,0.024444444444444446,-2.4862929970099468
+Other or multidisciplinary,source_explicit,20,981,0.020387359836901122,-0.04162337866666439
+Other or multidisciplinary,natural_ignition,6,981,0.0061162079510703364,-0.5471225419782851
+Other or multidisciplinary,human_ignition,14,981,0.014271151885830785,0.04904305460465446
+Other or multidisciplinary,climate_attribution,16,981,0.0163098878695209,1.1090447992932269
+Other or multidisciplinary,counterfactual,3,981,0.0030581039755351682,0.3098144089298795
+Other or multidisciplinary,fuel_legacy,41,981,0.0417940876656473,-1.0285170516936075
+Other or multidisciplinary,suppression_control,41,981,0.0417940876656473,-0.8928496298768289
+Other or multidisciplinary,burned_area,64,981,0.0652395514780836,-0.751395492187123
+Other or multidisciplinary,fire_severity,44,981,0.04485219164118247,-1.0882877242673805
+Other or multidisciplinary,emissions_carbon,150,981,0.1529051987767584,0.04728844188227817
+Other or multidisciplinary,nonco2_biophysical,63,981,0.06422018348623854,-0.5420785787371754
+Other or multidisciplinary,radiative_temperature,33,981,0.03363914373088685,-0.2921433020732695
+Other or multidisciplinary,postfire_recovery,13,981,0.013251783893985729,-1.1731815919856003
+Other or multidisciplinary,feedback_closure,8,981,0.00815494393476045,0.2944664445964433
+Other or multidisciplinary,fire_weather,80,981,0.08154943934760449,-0.8015336660116551

@@ -1,0 +1,5 @@
+ignition_class,climate_attribution_sum,climate_attribution_mean,fire_response_layer_sum,fire_response_layer_mean,emission_biophysical_layer_sum,emission_biophysical_layer_mean,recovery_layer_sum,recovery_layer_mean,counterfactual_feedback_layer_sum,counterfactual_feedback_layer_mean
+Both_or_comparative,0,0.0,10,0.45454545454545453,3,0.13636363636363635,0,0.0,0,0.0
+Human_only,6,0.05263157894736842,26,0.22807017543859648,22,0.19298245614035087,3,0.02631578947368421,1,0.008771929824561403
+Natural_only,0,0.0,23,0.32857142857142857,10,0.14285714285714285,1,0.014285714285714285,0,0.0
+Not_resolved,68,0.007267286523458373,1741,0.18606390937266218,1949,0.20829325638559368,292,0.031206583306615368,93,0.009939083039435716

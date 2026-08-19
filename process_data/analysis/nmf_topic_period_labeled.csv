@@ -1,0 +1,66 @@
+analysis_period,topic_id,record_n,period_total,share_within_period,topic_label
+1900-1989,1,2,10,0.2,"Forest regeneration, mortality and resilience"
+1900-1989,2,6,10,0.6,Fire-weather danger indices
+1900-1989,3,1,10,0.1,Palaeofire history and Holocene regimes
+1900-1989,14,1,10,0.1,"Climate variability, drought and fire activity"
+1990-1999,0,6,120,0.05,"Fuel management, prescribed fire and suppression"
+1990-1999,1,19,120,0.1583333333333333,"Forest regeneration, mortality and resilience"
+1990-1999,2,19,120,0.1583333333333333,Fire-weather danger indices
+1990-1999,3,12,120,0.1,Palaeofire history and Holocene regimes
+1990-1999,4,14,120,0.1166666666666666,Carbon and greenhouse-gas emissions
+1990-1999,5,5,120,0.0416666666666666,Aerosol radiative forcing and transport
+1990-1999,6,3,120,0.025,"Risk governance, adaptation and resilience"
+1990-1999,7,4,120,0.0333333333333333,"Remote sensing, mapping and monitoring"
+1990-1999,8,3,120,0.025,"Soil biogeochemistry, permafrost and carbon"
+1990-1999,9,1,120,0.0083333333333333,Compound extremes and climate-related hazards
+1990-1999,10,6,120,0.05,"Biodiversity, habitat and conservation"
+1990-1999,13,15,120,0.125,Future projections under climate scenarios
+1990-1999,14,12,120,0.1,"Climate variability, drought and fire activity"
+1990-1999,15,1,120,0.0083333333333333,"Smoke exposure, air quality and health"
+2000-2009,0,22,586,0.0375426621160409,"Fuel management, prescribed fire and suppression"
+2000-2009,1,55,586,0.0938566552901023,"Forest regeneration, mortality and resilience"
+2000-2009,2,59,586,0.1006825938566552,Fire-weather danger indices
+2000-2009,3,77,586,0.1313993174061433,Palaeofire history and Holocene regimes
+2000-2009,4,41,586,0.0699658703071672,Carbon and greenhouse-gas emissions
+2000-2009,5,46,586,0.0784982935153583,Aerosol radiative forcing and transport
+2000-2009,6,41,586,0.0699658703071672,"Risk governance, adaptation and resilience"
+2000-2009,7,24,586,0.0409556313993174,"Remote sensing, mapping and monitoring"
+2000-2009,8,25,586,0.0426621160409556,"Soil biogeochemistry, permafrost and carbon"
+2000-2009,9,12,586,0.0204778156996587,Compound extremes and climate-related hazards
+2000-2009,10,42,586,0.0716723549488054,"Biodiversity, habitat and conservation"
+2000-2009,11,12,586,0.0204778156996587,Burn severity and post-fire recovery
+2000-2009,13,51,586,0.0870307167235494,Future projections under climate scenarios
+2000-2009,14,71,586,0.1211604095563139,"Climate variability, drought and fire activity"
+2000-2009,15,8,586,0.0136518771331058,"Smoke exposure, air quality and health"
+2010-2019,0,124,2856,0.0434173669467787,"Fuel management, prescribed fire and suppression"
+2010-2019,1,331,2856,0.1158963585434173,"Forest regeneration, mortality and resilience"
+2010-2019,2,185,2856,0.0647759103641456,Fire-weather danger indices
+2010-2019,3,222,2856,0.0777310924369747,Palaeofire history and Holocene regimes
+2010-2019,4,185,2856,0.0647759103641456,Carbon and greenhouse-gas emissions
+2010-2019,5,124,2856,0.0434173669467787,Aerosol radiative forcing and transport
+2010-2019,6,290,2856,0.1015406162464986,"Risk governance, adaptation and resilience"
+2010-2019,7,131,2856,0.0458683473389355,"Remote sensing, mapping and monitoring"
+2010-2019,8,174,2856,0.0609243697478991,"Soil biogeochemistry, permafrost and carbon"
+2010-2019,9,82,2856,0.0287114845938375,Compound extremes and climate-related hazards
+2010-2019,10,283,2856,0.0990896358543417,"Biodiversity, habitat and conservation"
+2010-2019,11,129,2856,0.0451680672268907,Burn severity and post-fire recovery
+2010-2019,12,21,2856,0.0073529411764705,Machine-learning prediction and detection
+2010-2019,13,255,2856,0.0892857142857142,Future projections under climate scenarios
+2010-2019,14,224,2856,0.0784313725490196,"Climate variability, drought and fire activity"
+2010-2019,15,96,2856,0.0336134453781512,"Smoke exposure, air quality and health"
+2020-2025,0,186,5991,0.0310465698547821,"Fuel management, prescribed fire and suppression"
+2020-2025,1,440,5991,0.0734434985812051,"Forest regeneration, mortality and resilience"
+2020-2025,2,266,5991,0.0443999332331831,Fire-weather danger indices
+2020-2025,3,229,5991,0.0382240026706726,Palaeofire history and Holocene regimes
+2020-2025,4,300,5991,0.0500751126690035,Carbon and greenhouse-gas emissions
+2020-2025,5,219,5991,0.0365548322483725,Aerosol radiative forcing and transport
+2020-2025,6,1055,5991,0.1760974795526623,"Risk governance, adaptation and resilience"
+2020-2025,7,323,5991,0.0539142046402937,"Remote sensing, mapping and monitoring"
+2020-2025,8,312,5991,0.0520781171757636,"Soil biogeochemistry, permafrost and carbon"
+2020-2025,9,400,5991,0.0667668168920046,Compound extremes and climate-related hazards
+2020-2025,10,465,5991,0.0776164246369554,"Biodiversity, habitat and conservation"
+2020-2025,11,292,5991,0.0487397763311634,Burn severity and post-fire recovery
+2020-2025,12,400,5991,0.0667668168920046,Machine-learning prediction and detection
+2020-2025,13,287,5991,0.0479051911200133,Future projections under climate scenarios
+2020-2025,14,369,5991,0.0615923885828743,"Climate variability, drought and fire activity"
+2020-2025,15,448,5991,0.0747788349190452,"Smoke exposure, air quality and health"

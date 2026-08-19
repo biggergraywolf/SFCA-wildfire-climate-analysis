@@ -1,0 +1,18 @@
+{
+  "records_received": 13012,
+  "duplicate_rows_excluded": 9,
+  "retracted_rows_excluded": 4,
+  "eligible_article_review_records": 12756,
+  "complete_year_records_1900_2025": 11903,
+  "partial_2026_records": 1109,
+  "abstract_missing": 134,
+  "core_direct": 8618,
+  "contextual_or_indirect": 2178,
+  "peripheral_screening_candidate": 2216,
+  "primary_text_analysis_n": 9563,
+  "selected_nmf_k": 16,
+  "nmf_vocabulary_n": 13345,
+  "nmf_stability": 0.8809340948754384,
+  "nmf_topic_diversity": 0.95625,
+  "lsa_explained_variance_2d": 0.007336060112613747
+}

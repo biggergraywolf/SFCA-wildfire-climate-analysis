@@ -1,0 +1,8 @@
+stage,record_n,share
+Primary wildfire-climate corpus,9563,1.0
+Ignition/source explicitly resolved,205,0.02143678761894803
++ climate-attribution language,2,0.00020913939140437102
++ fire-response endpoint,1,0.00010456969570218551
++ emission/biophysical endpoint,0,0.0
++ explicit counterfactual,0,0.0
++ feedback closure,0,0.0

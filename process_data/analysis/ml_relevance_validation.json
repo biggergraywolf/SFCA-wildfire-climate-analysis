@@ -1,0 +1,44 @@
+{
+  "seed_n": 10146,
+  "positive_seed_n": 8274,
+  "negative_seed_n": 1872,
+  "pseudo_label_cv_auc": 0.8498009675040132,
+  "confusion_matrix": [
+    [
+      1162,
+      710
+    ],
+    [
+      874,
+      7400
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.5707269155206287,
+      "recall": 0.6207264957264957,
+      "f1-score": 0.5946775844421699,
+      "support": 1872.0
+    },
+    "1": {
+      "precision": 0.9124537607891492,
+      "recall": 0.8943678994440416,
+      "f1-score": 0.9033203125,
+      "support": 8274.0
+    },
+    "accuracy": 0.84387936132466,
+    "macro avg": {
+      "precision": 0.741590338154889,
+      "recall": 0.7575471975852687,
+      "f1-score": 0.748998948471085,
+      "support": 10146.0
+    },
+    "weighted avg": {
+      "precision": 0.8494030359377132,
+      "recall": 0.84387936132466,
+      "f1-score": 0.8463738127045873,
+      "support": 10146.0
+    }
+  },
+  "interpretation": "Cross-validation measures recovery of deterministic seed rules, not independent human-validated accuracy."
+}
