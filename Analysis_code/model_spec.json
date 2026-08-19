@@ -1,0 +1,42 @@
+{
+  "release": "1.0.0",
+  "relevance_model": {
+    "representation": "TF-IDF unigrams and bigrams",
+    "max_features": 30000,
+    "min_df": 5,
+    "max_df": 0.9,
+    "sublinear_tf": true,
+    "estimator": "class-balanced logistic regression",
+    "C": 2.0,
+    "max_iter": 1500,
+    "random_state": 20260810,
+    "cross_validation_folds": 5
+  },
+  "topic_model": {
+    "representation": "TF-IDF title + abstract + author keywords",
+    "max_features": 18000,
+    "min_df": 12,
+    "max_df": 0.78,
+    "candidate_k": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "nmf_seeds": [
+      17,
+      41,
+      73
+    ],
+    "selected_k": 16
+  },
+  "sampling_seeds": {
+    "validation_selection": 20260812,
+    "validation_manifest_shuffle": 20260813,
+    "reviewer_a_shuffle": 20260814,
+    "reviewer_b_shuffle": 20260815
+  }
+}
